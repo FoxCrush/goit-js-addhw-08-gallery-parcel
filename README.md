@@ -1,0 +1,1 @@
+# goit-js-addhw-08-gallery-parcel
